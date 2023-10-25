@@ -6,7 +6,4 @@ keely = "keely"
 
 keeely = "keely"
 
-
-x = 2
-
-y = "abc"
+x = 3
